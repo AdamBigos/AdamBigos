@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdamBigos
 - 👀 I’m interested in ... IT job
 - 🌱 I’m currently learning ... Python and all around it
-- 💞️ I’m looking to collaborate on ... machine lerning
+- 💞️ I’m looking to collaborate on ... machine lerning is my goal, byt every job where i can learn something will be greate.
 - 📫 How to reach me ... by email adambigospraca@gmail.com
 
 <!---
